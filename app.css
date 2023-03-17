@@ -1,0 +1,47 @@
+.border {
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+    height: 8%;
+    justify-content: space-around;
+}
+
+h2 {
+    text-align: center;
+}
+
+.login {
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    justify-content: space-around;
+}
+
+.forgot {
+    padding-left: 57px;
+}
+
+button {
+    width: 300px;
+    justify-content: space-around;
+    margin-bottom: 17px;
+}
+
+.new {
+    text-align: center;
+    margin-bottom: 10px;
+}
